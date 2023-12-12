@@ -1,0 +1,1 @@
+//XCUIElementTypeStaticText[@name="Please enter your Email Address" or @name="Please enter your password" or @name="Your password is incorrect" or @name="We can't seem to find your account" or @name="Please enter a valid email address."]

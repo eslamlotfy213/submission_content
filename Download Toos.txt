@@ -1,0 +1,51 @@
+{"REMOTE_WEB_DRIVER":
+{"build":"Katalon Android",
+"device":"Samsung Galaxy S22",
+"os_version":"12.0",
+"browserstack.appium_version":"1.17.0",
+"app":"bs://e5111afe30daac31dac26fe86e775e90427da3b1",
+"appPackage":"io.gatherhealth.ghp",
+"appActivity":".MainActivity",
+"deviceOrientation":"portrait",
+"remoteWebDriverUrl":"https://kimalcoseba_fhb2Xo:tFeRA4s5ezLmuGWom8wy@hub-cloud.browserstack.com/wd/hub",
+"remoteWebDriverType":"Appium",
+"remoteMobileDriver":"ANDROID_DRIVER"}}
+
+
+Date today = new Date()
+GlobalVariable.TodayDate = today.format('dd/MM/yyyy HH:mm:ss')
+
+
+Step 1 : Check if Node.js is already installed
+              node -v   
+              node --version
+              npm -v
+              npm --version
+
+Step 2 : Download and install Node.js
+                   https://nodejs.org/en/download/
+              check node.js is installed by running the above commands
+                 node -v
+                 npm -v
+                 where node
+
+Step 3 : Install APPIUM
+                check Java is installed on your system
+                 java -version
+                 npm install -g appium
+                 npm install -g appium@1.5.2
+            
+               Check if appium is installed 
+                 appium --version
+                 appium -v
+                 where appium
+
+Step 4 : Open Katalon Studio and connect to Appium
+
+Step 5 : Setup android mobile device for automation
+                     1. Settings - About Phone - tap 7 times on Build number
+                     2. Settings - Developer Options - enable USB Debugging
+
+Step 6 : Connect android device to your system (usb cable)
+
+In case USB options NOT showing in android when connected to PC but phone charges https://youtu.be/ZvR3zxaZ6io

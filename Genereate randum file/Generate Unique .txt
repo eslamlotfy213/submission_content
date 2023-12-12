@@ -1,0 +1,30 @@
+//Generate Unique Display Name
+String path = System.getProperty('user.dir') + '\\External Test Data\\DisplayNameCounter.txt'
+
+File file = new File(path)
+
+String displayNameID = FileUtils.readFileToString(file)
+
+FileUtils.write(file, (displayNameID.toInteger() + 1).toString(), false)
+
+String displayName = 'DisplayName_' + displayNameID
+
+GlobalVariable.DisplayName = displayName
+
+
+
+
+//Get Interests from file
+path = System.getProperty('user.dir') + '\\External Test Data\\Signup\\Interests.txt'
+
+file = new File(path)
+
+List<String> interests = FileUtils.readLines(file)
+for(int i=0; i< interests.size();i++) 
+{
+	GlobalVariable.InterestName = interests[i]
+	
+	Mobile.waitForElementPresent(findTestObject('Object Repository/Mobile/Signup/Label_InterestName'), GlobalVariable.WaitPeriod)
+	
+	Mobile.tap(findTestObject('Object Repository/Mobile/Signup/Label_InterestName'), 0)
+}

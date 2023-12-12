@@ -1,0 +1,30 @@
+Job title: Senior Quality Control Engineer
+Job Description :
+Work with a US-based client in chemical industry on a digital transformation.
+My role is Creating TestCase in phase analysis and desing and review TestCases and manage comments with team 
+Executing TestCase and send results. 
+Particiapte in Prepare UAT Test Cases.
+on the technologies, architecture and 
+helping the teams on adopting these practices.
+Set different configuration :Test Web [chrome - firefox - IE - edge] and Test Mobile [Android - IOS]
+Create Test cases High level scenario - low level scenario
+Add impacted area 
+Separate UI between functional testing
+Add tags for filtereing Testcases
+Add extra tags for smoke sanity to decision to go production minor bugs
+grantee test coverage alignment meeting with dev based on requirments?
+peer review
+Review Xframe and comments
+prepare regression suit
+Report bugs with Azure debops
+anaylsis and designe
+update Test cases
+Functional Testing
+Automate scripts with katalon Mobile Android - IOS with browser stack
+attend daily standup meeting with team  
+attend daily standup meeting with Client
+attend weekly meeting ->
+Extra mile:
+onboarding materia to team 
+Mobile checklist to team
+Prepare demo to client 

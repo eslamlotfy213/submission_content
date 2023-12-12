@@ -1,0 +1,48 @@
+https://katalon-demo-cura.herokuapp.com/
+I have covered 
+
+work with Customized keywords, Test profile
+
+work with calendar add random days using random and using string builder 
+
+work with Data-Driven Test with Excel
+
+work with Cross browser chrome , Firefox , edge 
+
+Customized keywords
+writing first test case
+work with calender add random days  using random 
+work with textare and add random comment using stringbuilder 
+work using callTest function 
+Data-Driven Test with Excel
+
+Test suit 
+Test suit collection 
+test listerce   > hoocks 
+test profiles > properties
+Cross browser chrome firfix edge 
+integration with Ci/CD using CMD 
+install katalon enginee
+
+
+
+
+
+get days from calender 
+$('td.day:not(.old)')
+
+
+Data-Driven Test with Excel
+
+
+
+.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true
+
+
+
+
+
+
+
+
+#testcases #testing #functionaltesting #softwaretesting #qa #manualtesting #learning #knowledgesharing

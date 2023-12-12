@@ -1,0 +1,37 @@
+Job title : Senior Quality Control Engineer
+Job Description: Work with a US-based client in chemical industry on a digital transformation.
+My roles are :
+. creating TestCases in phase analysis and desing
+. review TestCases and manage comments with team 
+. Executing TestCase and send results 
+. Prepare Test data in all phase [Testing - Production]
+. Particiapte in Prepare UAT Test Cases 
+. Set user stories to be designed.
+. Set scope of the iteration or sprint interms of seleclted user stories.
+. Set manual enviorment.(test_plan on TFS,test suites,linked user stories based on the scope)
+. Set defect life cycle.
+. Select manual testcases that should be automated
+. Design framework structure.
+. Implement framework.
+. Tesing on Api - [Swagger - Newman] 
+. Testing Database SQL 
+. Testing Mobile application [Android - IOS]  throughr browser Stack
+. Testing Web application [Web - Mobile Web View]
+. Test Automation by C# , Nunit Framework [Web Application]
+. Test Automation by Appium [Mobile Application] 
+
+Testing Levels : 
+Integration Testing - System Testing - User Acceptance Testing
+
+Testing Types : 
+Functional Testing :  Smoke Testing - Regression Testing - Ad hoc Testing , System testing 
+Non Functional Testing :Usability Testing , Install/uninstall Testing
+
+
+Techolongy : 
+Azure - Feature flags - WebSite Toolsbox - BrowserStack 
+C# - Visual Studio
+
+Projects 
+- NLIMS project Web Application
+- squelel project cross platform Application 
