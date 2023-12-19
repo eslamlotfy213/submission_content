@@ -1,0 +1,13 @@
+----------------------java-------------------------------------------------
+oop
+object oriented 
+inhertance
+polymoeaphosme
+abstract interface - abstrave
+encapsulation public - protected -private
+	overloading -> ealy bininding  
+	overridiing -> late bininding
+
+multi level inhertance   : class a extends class b extends class c
+multi inhertance  : class a extends class b , class a extends class c
+
