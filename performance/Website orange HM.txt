@@ -1,0 +1,21 @@
+token correction
+1- hateg 7aga ellt ttker login masaln
+2- open view result treee
+3- e3mel search biha ex: 40997a9bcedsddsdsdsd
+4- btzher awele mara fe home samoles 
+5- post processpor > regulare expression extractor > 
+  5.0 token name
+  5.1 ::token="&quot;(.+?)&quot;"
+  5.2 template $1$ 
+
+
+
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+${email}${__time(,)}
+
+:token="&quot;(.+?)&quot;"
+
+
+4a0997a95bce638d8025.k7s0clrKACyFkW9vFnue9xwwCgjcMRKw318NjOVXDAI.zINTQwOjSXzBx0IWUz3cn3Z5MzroUlr56Wd_39IbRmT7_FsnYv9sYLXTJg

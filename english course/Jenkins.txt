@@ -1,0 +1,30 @@
+----------------------------------------Jenkins----------------------------------------------------------------
+1.downlaod jenkins from https://www.jenkins.io/download/ Stable (LTS)  
+2.Go to folder of jenkins 
+2.open CMD and wrire java jar (file of jenkins)  ex : java -jar jenkins.war -httpPort=8080 --enable-future-java
+3.password : deab25c6930d469d963aacf83d8291af
+4. open localhost:8080  
+user name :  Eslam
+password:    Acac123456
+Full name:	 Eslam Lotfy 
+Jenkins URL: http://localhost:8080/
+5.create New job > create New item  > fress style project
+6. General > advanced >  User  Custom workSpace
+7. Build   >  select execute windown batch command  
+8. command > dotnet test CsharpSelenuimFrameWork.csproj
+
+
+
+
+
+
+=========================================================================
+1.downlaod jenkins from https://www.jenkins.io/download/ Stable (LTS)  
+2.Go to folder of jenkins 
+3.password : deab25c6930d469d963aacf83d8291af
+4.linke jenkins : http://localhost:8080/login?from=%2F
+5.enter deab25c6930d469d963aacf83d8291af on Administrator password
+6.install suggesting plugines 
+7.download jdk 8 java environment
+
+java -jar jenkins.war --enable-future-java

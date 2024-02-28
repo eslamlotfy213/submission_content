@@ -1,0 +1,9 @@
+As a potential customer,
+I want to create an account on a shopping website
+So that I can easily browse and purchase products.
+
+Acceptance Criteria:
+
+When I visit the website, I should see a "Sign Up" button on the homepage.
+Upon clicking the "Sign Up" button, I should be directed to a registration page.
+The registration page should include fields for my name, email address, and password.

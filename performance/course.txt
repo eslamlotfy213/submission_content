@@ -1,0 +1,40 @@
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+speed response
+statbility  > state of system 
+scalability > scale numbrt of user = ?
+Reliablity  >  different condintions   2000 users on same time 
+ 
+
+why performance? 
+not finding bugs
+eliminate bottlennecks
+information about system before going live
+5min downtime  ->  costs 545000$
+
+
+load testing "expected"  
+stress testing "break point"
+
+cpu 
+memory
+disk usage
+networks
+speed
+battary
+
+-----------------------------------------------------------------------------------------------
+performace testing :  how the system works stability of the system 
+threads business loginc number of users
+Install Jmeter | Performance Testing
+Thread Group | Performance Testing : 100 users
+ramp up  per secound :  1   1/100 = 0.01
+loop cound forever 
+
+duration secound:  60
+startup delay   : el time elly will hay4d 3ahand bd2
+
+
+
+

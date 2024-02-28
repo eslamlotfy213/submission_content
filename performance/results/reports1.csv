@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.70299E+12,662,HTTP Request,200,OK,Thread Group 1-2,text,TRUE,,5662,298,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,408,0,301
+1.70299E+12,408,HTTP Request-0,302,Found,Thread Group 1-2,text,TRUE,,1054,137,2,2,https://opensource-demo.orangehrmlive.com/,408,0,301
+1.70299E+12,254,HTTP Request-1,200,OK,Thread Group 1-2,text,TRUE,,4608,161,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,254,0,0
+1.70299E+12,1680,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,5648,298,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1429,0,1323
+1.70299E+12,1429,HTTP Request-0,302,Found,Thread Group 1-1,text,TRUE,,1054,137,1,1,https://opensource-demo.orangehrmlive.com/,1429,0,1323
+1.70299E+12,251,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,4594,161,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,251,0,0
+1.70299E+12,1666,HTTP Request,200,OK,Thread Group 1-3,text,TRUE,,5641,298,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1407,0,1311
+1.70299E+12,1407,HTTP Request-0,302,Found,Thread Group 1-3,text,TRUE,,1054,137,2,2,https://opensource-demo.orangehrmlive.com/,1407,0,1311
+1.70299E+12,259,HTTP Request-1,200,OK,Thread Group 1-3,text,TRUE,,4587,161,2,2,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,259,0,0
+1.70299E+12,669,HTTP Request,200,OK,Thread Group 1-4,text,TRUE,,5649,298,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,422,0,313
+1.70299E+12,422,HTTP Request-0,302,Found,Thread Group 1-4,text,TRUE,,1054,137,1,1,https://opensource-demo.orangehrmlive.com/,422,0,313
+1.70299E+12,247,HTTP Request-1,200,OK,Thread Group 1-4,text,TRUE,,4595,161,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,247,0,0
+1.70299E+12,662,HTTP Request,200,OK,Thread Group 1-5,text,TRUE,,5640,298,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,427,0,321
+1.70299E+12,427,HTTP Request-0,302,Found,Thread Group 1-5,text,TRUE,,1054,137,1,1,https://opensource-demo.orangehrmlive.com/,427,0,321
+1.70299E+12,235,HTTP Request-1,200,OK,Thread Group 1-5,text,TRUE,,4586,161,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,235,0,0
