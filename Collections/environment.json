@@ -1,0 +1,67 @@
+{
+	"id": "77ad2f35-aee8-4485-b96e-fe47c7901897",
+	"name": "Trello Environment",
+	"values": [
+		{
+			"key": "BaseUrl",
+			"value": "https://api.trello.com/1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "boardname",
+			"value": "New board",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "number of boards created",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "New List 2022",
+			"enabled": true
+		},
+		{
+			"key": "number of Lists created",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "get FirstListID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "get LastListID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "getFirstBoardID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "getLastBoardID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-10-12T00:37:44.258Z",
+	"_postman_exported_using": "Postman/10.18.11"
+}

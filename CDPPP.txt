@@ -1,0 +1,85 @@
+-------------------------------------------------------------
+:CDP planned gaps analysis:
+Api testing  manual
+rest assured automation
+Selenuim project automation
+
+- one manual testing displine           4 -> Web - mobile
+- Extra Manual or Automated             2 -> manual Native
+- one automation Testing displine       3 -> selenuim project  + Automation API rest assured
+- Core Testing Topics                   : in progress
+- One Advanced Testing Topic            : Api testing 
+
+-----------------------------------
+>>>>>>>>>>>>>>>>>>>>>Map project<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+maven build managment tool
+
+TestNg framework for assertion
+
+Extent reporting 
+
+category using Testing annotation @regression , @smoke
+
+Desing pattern Poge object model
+    separating class pages -  tests login code
+
+elimitating deprecration @Find By , webdriver , implicit waits
+
+Global variable 
+
+simplified methdos
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+S — Single Responsibility Principle   
+ > each page has its locator and funtions    
+ > One method responsible only for one action
+ 
+O — Open Closed Principle
+ > open for extension but closed for modification
+         TestBase , PageBase
+
+L — Liskov Substitution Principle
+
+
+I — Interface Segregation Principle
+ >  not make user forced user to implement all methods ....interface 
+ 
+D — Dependency Inversion Principle   more abstraction > 
+ >	public void login(){
+	driver = chromedriver();
+	}
+
+	public void login(Webdriver ){
+	driver this.driver()
+	}
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
